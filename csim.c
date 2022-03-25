@@ -1,5 +1,3 @@
-/* Cheung Chi Wang 1155158048 */
-
 #include "cachelab.h"
 #include <getopt.h>
 #include <stdlib.h>
