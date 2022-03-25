@@ -1,4 +1,3 @@
-/* Cheung Chi Wang 1155158048*/
 /* 
  * trans.c - Matrix transpose B = A^T
  *
